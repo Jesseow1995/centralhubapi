@@ -1,0 +1,24 @@
+{
+  "name": "centralhubapi",
+  "version": "1.0.0",
+  "description": "blog api for central hub app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesseow1995/centralhubapi.git"
+  },
+  "author": "Jesse Oliver Williamson <jesseowilliamson@gmail.com> (https://www.npmjs.com/~jesseow)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesseow1995/centralhubapi/issues"
+  },
+  "homepage": "https://github.com/Jesseow1995/centralhubapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
